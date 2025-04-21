@@ -1,0 +1,1001 @@
+city_name,seismic_level,risk_percent
+Dallas,4,
+Tucson,5,
+San Francisco,5,92.98
+New Orleans,5,14.55
+Fresno,5,58.79
+Raleigh,4,69.50
+Tucson,4,80.60
+San Jose,1,61.59
+San Francisco,2,90.26
+Boston,1,25.22
+Oakland,3,29.35
+Tulsa,3,30.38
+Mesa,3,20.62
+Jacksonville,3,41.11
+San Diego,4,
+Seattle,4,42.40
+Washington,1,32.62
+San Francisco,4,56.58
+Long Beach,4,28.66
+El Paso,3,49.49
+Dallas,5,34.60
+Memphis,4,59.56
+Raleigh,4,58.72
+Memphis,2,
+Tulsa,3,18.46
+Nashville,5,47.07
+Miami,5,40.62
+Boston,3,97.03
+San Antonio,2,13.86
+Colorado Springs,2,27.72
+Kansas City,2,56.16
+New Orleans,4,
+Tulsa,1,80.08
+San Jose,1,11.36
+Miami,2,24.69
+Louisville,5,32.04
+Seattle,4,51.59
+Denver,4,33.46
+Chicago,5,20.87
+Milwaukee,1,49.88
+Fort Worth,1,65.22
+El Paso,3,63.78
+Portland,5,71.48
+Milwaukee,5,76.02
+Baltimore,2,
+Arlington,5,53.15
+Oakland,5,74.08
+Albuquerque,1,88.40
+Fort Worth,3,58.89
+Philadelphia,5,73.33
+Indianapolis,1,85.32
+Arlington,4,89.57
+Fresno,2,61.80
+New Orleans,5,71.81
+Portland,1,93.73
+Kansas City,3,56.95
+Mesa,5,
+Omaha,1,80.83
+Tulsa,2,67.01
+Wichita,2,19.69
+Wichita,1,44.69
+Houston,4,36.34
+Houston,1,50.77
+Seattle,3,30.43
+Baltimore,3,45.78
+Houston,5,62.91
+Tulsa,5,84.27
+Jacksonville,1,72.92
+Memphis,1,76.23
+Oklahoma City,5,
+Memphis,5,20.46
+Colorado Springs,2,61.35
+Raleigh,5,
+Jacksonville,5,95.80
+Los Angeles,3,
+Oklahoma City,5,76.55
+Chicago,5,88.40
+Columbus,4,62.86
+Tucson,2,41.82
+Long Beach,2,24.55
+Detroit,4,10.20
+Indianapolis,1,55.34
+Columbus,5,10.85
+Sacramento,5,95.90
+Boston,3,29.08
+Columbus,1,87.15
+Columbus,1,
+San Diego,3,51.83
+Minneapolis,3,76.26
+Mesa,4,51.15
+Columbus,2,
+Chicago,3,80.63
+Los Angeles,4,54.91
+San Diego,5,71.48
+San Antonio,2,72.51
+Las Vegas,5,
+Wichita,2,78.58
+San Francisco,4,91.16
+Nashville,2,53.21
+Wichita,1,77.12
+Jacksonville,5,37.78
+Dallas,5,31.72
+Houston,1,95.81
+Los Angeles,2,33.50
+Seattle,3,15.42
+Long Beach,5,81.13
+Nashville,1,82.72
+Austin,4,39.24
+Fort Worth,4,55.48
+Minneapolis,2,76.29
+Fort Worth,1,47.47
+Albuquerque,4,31.19
+San Diego,5,64.75
+Sacramento,4,52.25
+Colorado Springs,5,23.68
+Seattle,4,90.02
+New Orleans,4,11.01
+Raleigh,3,24.43
+Memphis,5,
+Austin,5,11.81
+Phoenix,5,95.80
+Atlanta,1,14.21
+Portland,2,42.58
+Wichita,3,86.69
+Albuquerque,4,73.01
+Minneapolis,5,54.86
+Dallas,2,10.84
+Nashville,2,66.54
+Fort Worth,4,87.55
+Columbus,5,21.54
+Raleigh,1,92.60
+Fort Worth,5,16.90
+Oklahoma City,1,65.47
+Wichita,2,66.57
+Oklahoma City,3,45.45
+Houston,5,82.34
+Raleigh,5,93.74
+Boston,4,54.28
+Virginia Beach,4,27.46
+Tucson,5,24.04
+Philadelphia,3,
+Phoenix,4,30.57
+Arlington,1,79.89
+New Orleans,4,46.01
+Virginia Beach,5,52.87
+Wichita,2,48.86
+Omaha,1,67.56
+Virginia Beach,2,20.57
+Jacksonville,5,83.55
+Phoenix,1,65.13
+Milwaukee,4,50.52
+Louisville,3,99.26
+Tulsa,1,57.71
+Baltimore,5,10.07
+Baltimore,5,14.32
+Raleigh,1,13.76
+San Antonio,4,76.43
+Wichita,3,71.71
+Memphis,1,33.66
+Memphis,2,56.62
+Oakland,4,51.17
+Nashville,5,83.10
+Detroit,2,67.42
+Tulsa,3,24.17
+Boston,3,92.13
+Tulsa,2,33.44
+Omaha,3,92.23
+Albuquerque,1,66.05
+Boston,4,30.35
+Fort Worth,2,
+Colorado Springs,3,94.68
+El Paso,3,49.93
+Philadelphia,1,92.56
+Indianapolis,5,
+Omaha,3,
+Memphis,5,24.80
+Kansas City,5,45.67
+Columbus,5,29.09
+Dallas,5,
+Atlanta,1,77.66
+Tulsa,4,91.89
+Albuquerque,3,55.33
+Fresno,4,49.56
+Philadelphia,3,93.43
+San Antonio,1,88.57
+Colorado Springs,3,90.03
+Kansas City,5,31.60
+Albuquerque,4,84.53
+New Orleans,4,43.41
+Memphis,4,
+Jacksonville,2,14.62
+Denver,2,38.47
+Long Beach,1,87.38
+Las Vegas,4,12.82
+Los Angeles,5,
+Louisville,2,
+Las Vegas,2,
+New York,5,28.51
+Fort Worth,3,17.85
+Albuquerque,2,82.26
+New Orleans,3,81.57
+Wichita,1,
+Charlotte,1,90.64
+Philadelphia,4,53.06
+Charlotte,1,
+Houston,3,95.19
+Chicago,4,80.33
+Dallas,5,26.65
+Colorado Springs,1,25.74
+Indianapolis,3,74.17
+Tucson,4,70.07
+Denver,3,46.48
+Fort Worth,4,
+Seattle,3,30.48
+Tulsa,1,17.68
+Fresno,3,12.79
+Raleigh,4,69.34
+Las Vegas,1,
+Philadelphia,5,89.79
+Jacksonville,4,76.02
+Tucson,2,33.77
+Dallas,5,65.58
+San Francisco,4,14.01
+Phoenix,4,81.58
+Louisville,2,43.96
+Nashville,5,27.36
+Colorado Springs,2,
+Los Angeles,1,83.03
+Charlotte,3,20.09
+Sacramento,1,55.25
+Detroit,4,80.71
+Miami,4,43.37
+Virginia Beach,5,96.96
+Virginia Beach,3,
+Detroit,4,39.01
+San Jose,5,55.68
+Sacramento,3,24.76
+Mesa,4,63.27
+Colorado Springs,4,94.90
+Minneapolis,2,83.27
+San Jose,1,68.97
+Dallas,4,87.75
+New Orleans,1,97.33
+Minneapolis,4,
+Tucson,3,24.96
+Seattle,1,80.19
+Miami,4,66.66
+Dallas,1,41.34
+Washington,1,50.79
+Atlanta,4,27.51
+New Orleans,5,31.43
+Jacksonville,1,67.11
+Houston,5,60.63
+Las Vegas,1,13.89
+Houston,3,68.39
+Seattle,2,33.27
+Denver,5,86.67
+Charlotte,1,63.60
+Omaha,2,96.56
+Albuquerque,1,16.98
+Atlanta,2,76.14
+El Paso,5,58.19
+Louisville,3,81.51
+Philadelphia,3,80.53
+San Antonio,4,85.93
+New York,2,76.73
+Washington,4,83.11
+Denver,2,28.02
+Memphis,2,
+Los Angeles,3,68.79
+Tulsa,1,67.70
+El Paso,4,
+Arlington,5,86.14
+Kansas City,1,83.57
+Wichita,1,38.42
+Dallas,2,40.56
+Austin,4,14.30
+Oklahoma City,4,17.50
+Jacksonville,3,88.29
+Boston,1,60.63
+Long Beach,4,86.75
+New Orleans,4,55.57
+Raleigh,2,12.11
+Raleigh,3,
+New York,2,85.00
+Long Beach,4,33.70
+Boston,5,74.21
+Sacramento,2,49.08
+Fresno,4,50.61
+Dallas,2,73.06
+Baltimore,2,43.89
+New Orleans,4,
+New York,2,25.63
+San Jose,5,23.83
+San Antonio,1,22.96
+Chicago,2,63.43
+Arlington,5,56.04
+Denver,4,65.53
+Memphis,1,95.08
+Raleigh,2,46.89
+Chicago,5,73.07
+Los Angeles,1,
+San Diego,1,83.66
+Long Beach,4,45.31
+New York,1,30.36
+Portland,2,54.58
+Colorado Springs,3,60.28
+Memphis,2,86.83
+Albuquerque,4,32.20
+San Antonio,1,83.72
+Fort Worth,5,30.40
+Fort Worth,5,69.63
+Fort Worth,5,74.60
+Milwaukee,1,19.50
+Charlotte,3,60.94
+San Francisco,3,21.64
+Fort Worth,3,95.76
+Baltimore,4,16.63
+Nashville,5,
+Kansas City,1,44.31
+Charlotte,2,85.98
+San Antonio,1,96.85
+Oklahoma City,5,73.55
+San Diego,2,65.65
+Boston,3,36.84
+Denver,1,73.17
+Raleigh,1,96.48
+Boston,3,90.39
+Tulsa,2,23.35
+Las Vegas,4,79.32
+Sacramento,2,
+Oakland,5,
+Wichita,1,82.16
+New York,4,
+Las Vegas,5,
+New Orleans,2,31.55
+New York,2,21.46
+Miami,5,15.44
+Oakland,2,42.85
+Washington,5,46.98
+Colorado Springs,3,54.45
+Albuquerque,2,49.30
+New York,3,48.18
+Raleigh,1,43.94
+Detroit,5,70.95
+Milwaukee,5,39.81
+Fresno,1,37.05
+Raleigh,2,80.59
+Columbus,3,79.78
+San Antonio,3,69.11
+San Diego,4,23.05
+San Jose,3,85.55
+Columbus,2,28.67
+Milwaukee,5,97.82
+Baltimore,4,72.80
+Washington,5,18.74
+Charlotte,1,49.63
+Charlotte,3,41.65
+Sacramento,3,85.70
+Oklahoma City,3,
+Raleigh,4,70.41
+Mesa,3,84.52
+Colorado Springs,5,
+Austin,5,50.85
+New York,1,90.96
+Miami,3,42.80
+Detroit,4,82.69
+Raleigh,1,77.89
+Milwaukee,3,64.02
+Houston,2,
+Phoenix,5,69.09
+San Antonio,2,19.25
+Long Beach,3,20.02
+Albuquerque,3,28.70
+Milwaukee,5,45.53
+Charlotte,5,24.02
+Omaha,3,77.05
+San Francisco,1,43.28
+Kansas City,2,85.28
+San Diego,4,28.56
+Seattle,3,27.48
+Mesa,1,20.72
+Milwaukee,4,22.80
+Fresno,4,56.16
+New York,2,68.16
+San Diego,2,19.30
+Oakland,1,
+Phoenix,4,
+Philadelphia,3,
+Tucson,3,59.86
+Atlanta,1,
+San Jose,2,35.66
+Las Vegas,4,
+Memphis,2,55.95
+Portland,4,
+El Paso,1,
+Columbus,2,98.05
+Omaha,2,16.62
+Dallas,3,71.35
+Baltimore,3,88.09
+New York,3,18.45
+Detroit,2,76.38
+Boston,3,82.41
+Charlotte,3,59.39
+Fresno,5,22.52
+Fort Worth,1,30.80
+Phoenix,1,98.99
+New York,3,20.91
+Albuquerque,5,16.92
+Seattle,1,82.48
+Fort Worth,5,27.00
+Los Angeles,4,75.29
+Oklahoma City,5,15.12
+Oklahoma City,2,39.43
+Tucson,1,71.16
+Dallas,3,19.64
+Fort Worth,2,51.33
+Jacksonville,5,28.40
+Raleigh,5,94.42
+Austin,3,
+Atlanta,2,69.18
+Arlington,5,66.56
+Virginia Beach,4,28.17
+Las Vegas,2,96.86
+Portland,5,55.69
+El Paso,5,71.92
+Oakland,5,55.45
+Jacksonville,1,
+New York,2,78.66
+Fresno,5,58.41
+Seattle,1,12.31
+Dallas,4,70.97
+Virginia Beach,2,23.92
+Arlington,5,29.64
+Tulsa,3,14.17
+Minneapolis,1,26.54
+Phoenix,4,12.65
+Oakland,1,13.30
+Seattle,1,29.93
+Louisville,1,36.55
+San Antonio,4,70.09
+Philadelphia,5,31.71
+Omaha,3,
+Colorado Springs,4,29.12
+Nashville,2,86.18
+Austin,2,69.68
+Jacksonville,2,59.01
+San Antonio,3,46.55
+Oklahoma City,3,65.91
+San Diego,4,19.91
+Jacksonville,1,29.02
+Philadelphia,3,28.60
+San Francisco,1,94.63
+Fresno,4,74.79
+Mesa,3,13.70
+Jacksonville,3,18.87
+Sacramento,3,77.12
+New York,3,74.61
+Kansas City,2,37.81
+Austin,2,52.06
+Atlanta,1,39.94
+Portland,4,96.90
+New York,4,53.66
+Colorado Springs,3,
+Detroit,5,
+Washington,2,55.33
+Oklahoma City,1,
+Mesa,5,36.33
+Baltimore,4,85.86
+Tucson,3,81.71
+Austin,2,93.76
+Sacramento,1,37.43
+San Antonio,2,55.82
+New Orleans,2,10.83
+Austin,4,37.37
+Charlotte,1,
+Virginia Beach,1,42.83
+Tucson,5,67.40
+Phoenix,1,93.73
+Albuquerque,5,31.84
+Albuquerque,2,20.02
+Los Angeles,5,33.26
+Nashville,1,39.46
+Milwaukee,1,46.85
+Boston,1,63.82
+Tulsa,5,22.11
+Portland,1,13.84
+Oklahoma City,3,10.82
+New York,4,94.96
+Raleigh,4,34.47
+Colorado Springs,5,81.89
+Phoenix,2,71.77
+Mesa,4,46.64
+Virginia Beach,3,19.41
+Fort Worth,3,94.34
+San Antonio,4,32.68
+Charlotte,3,34.39
+Sacramento,2,32.44
+Milwaukee,5,59.94
+Milwaukee,2,94.38
+Fort Worth,2,31.49
+Jacksonville,1,61.82
+Miami,1,14.51
+Colorado Springs,5,95.10
+El Paso,4,87.75
+Charlotte,5,57.00
+Detroit,4,61.04
+Milwaukee,1,69.11
+Tulsa,5,
+San Diego,2,51.86
+Long Beach,4,35.07
+Detroit,2,63.85
+Louisville,1,84.41
+Baltimore,4,54.79
+Colorado Springs,3,13.89
+Kansas City,5,
+Albuquerque,3,16.44
+Nashville,5,18.24
+Atlanta,1,67.56
+Washington,2,36.20
+Omaha,4,36.67
+Washington,1,79.48
+Omaha,2,27.98
+Wichita,1,12.99
+Long Beach,5,64.33
+Virginia Beach,1,67.46
+El Paso,4,23.34
+Omaha,1,76.68
+Denver,4,16.44
+Albuquerque,4,44.41
+Baltimore,5,
+Milwaukee,5,55.18
+Louisville,3,11.00
+Austin,1,45.11
+Las Vegas,1,
+Denver,2,15.85
+Portland,1,56.88
+Long Beach,2,89.06
+Minneapolis,5,82.03
+Washington,1,43.92
+New Orleans,2,92.57
+Houston,1,77.16
+Tulsa,1,19.81
+Fort Worth,3,38.91
+Baltimore,4,
+El Paso,2,51.18
+Atlanta,5,
+Virginia Beach,5,79.21
+Sacramento,1,35.05
+San Diego,5,52.57
+Jacksonville,2,90.11
+Fresno,3,14.55
+Los Angeles,4,61.22
+Raleigh,2,14.64
+Charlotte,3,93.93
+Houston,2,51.47
+Dallas,1,
+Denver,5,87.12
+Denver,3,25.32
+Columbus,3,74.61
+Jacksonville,4,21.40
+Portland,5,37.13
+Phoenix,2,31.06
+Oklahoma City,5,28.72
+Charlotte,3,46.10
+Kansas City,1,18.54
+Minneapolis,1,48.57
+Sacramento,5,
+New Orleans,5,27.79
+San Jose,1,20.19
+Tulsa,1,31.78
+San Jose,4,15.94
+San Diego,5,90.40
+Detroit,5,18.80
+Tulsa,3,25.60
+Mesa,2,47.66
+New York,5,67.84
+Miami,1,76.02
+Portland,2,20.36
+Las Vegas,5,74.42
+Fresno,3,40.96
+New Orleans,4,93.03
+Arlington,3,94.78
+Boston,2,91.41
+New York,3,24.37
+Mesa,4,44.19
+Jacksonville,5,34.74
+Portland,5,42.66
+San Antonio,1,14.34
+New York,1,95.92
+Dallas,2,12.42
+San Diego,1,92.49
+Oakland,2,42.11
+Charlotte,5,84.98
+San Antonio,2,87.40
+Tulsa,1,80.03
+Raleigh,4,15.28
+Indianapolis,4,12.85
+Boston,4,41.16
+Portland,3,
+Washington,2,78.22
+Fort Worth,4,
+Raleigh,2,27.23
+Charlotte,4,30.65
+Milwaukee,2,31.45
+Milwaukee,4,15.45
+San Jose,4,39.52
+Austin,3,55.76
+Omaha,2,36.75
+Atlanta,2,20.84
+Arlington,4,37.81
+Mesa,5,60.74
+Denver,2,67.41
+Washington,1,28.43
+Tulsa,3,98.43
+Miami,3,41.17
+Tulsa,1,70.72
+Indianapolis,4,81.70
+Indianapolis,4,19.46
+Detroit,1,36.97
+Fresno,1,34.93
+Virginia Beach,5,14.10
+Fresno,1,
+Portland,3,51.28
+Philadelphia,3,25.97
+Portland,4,23.36
+Jacksonville,4,63.65
+Indianapolis,4,17.95
+Wichita,4,56.50
+Houston,5,18.12
+Chicago,3,17.15
+Mesa,5,44.29
+Dallas,3,86.21
+Seattle,2,70.20
+Portland,1,45.94
+Austin,3,44.82
+Kansas City,1,37.95
+Albuquerque,1,22.84
+Tucson,3,81.39
+Baltimore,3,68.65
+Memphis,5,62.06
+Louisville,1,88.70
+Minneapolis,1,90.11
+New York,4,37.73
+San Francisco,4,50.53
+Raleigh,5,99.80
+Long Beach,3,72.57
+Los Angeles,3,97.83
+Houston,5,96.55
+Atlanta,1,17.37
+Detroit,3,42.06
+Raleigh,5,23.15
+Long Beach,1,56.13
+Philadelphia,4,85.70
+Kansas City,5,62.19
+Columbus,1,
+Indianapolis,2,93.32
+Philadelphia,3,23.45
+Nashville,1,62.38
+Denver,1,90.03
+Fresno,4,38.18
+Houston,2,70.57
+Dallas,3,33.37
+Minneapolis,2,
+Columbus,4,35.29
+Louisville,5,13.40
+Colorado Springs,2,68.07
+Los Angeles,1,59.24
+Portland,2,67.92
+Tulsa,1,93.33
+Minneapolis,4,68.27
+New Orleans,1,40.40
+Philadelphia,4,
+Fresno,1,97.74
+Colorado Springs,5,94.10
+Nashville,1,80.33
+Boston,4,67.44
+Phoenix,4,
+Phoenix,4,60.50
+Minneapolis,4,11.83
+San Jose,5,67.24
+Wichita,3,77.44
+Sacramento,1,87.27
+Boston,1,90.10
+Louisville,5,26.25
+Raleigh,1,87.17
+Minneapolis,4,72.46
+Oklahoma City,1,71.13
+Los Angeles,4,83.73
+New York,2,71.40
+New Orleans,3,
+Denver,3,53.71
+Chicago,5,75.04
+Philadelphia,5,50.16
+Portland,5,32.23
+Raleigh,4,39.90
+Charlotte,4,94.24
+Louisville,4,57.24
+Chicago,1,40.87
+Charlotte,4,54.85
+Fort Worth,2,
+Washington,2,53.49
+San Antonio,3,
+Las Vegas,3,27.68
+Raleigh,2,86.79
+Long Beach,5,97.98
+Memphis,4,74.29
+Detroit,5,12.95
+Minneapolis,1,64.89
+Baltimore,3,97.67
+Milwaukee,5,73.86
+San Antonio,4,22.50
+Omaha,3,77.72
+Tulsa,4,96.33
+Kansas City,2,25.36
+Kansas City,2,94.91
+Fresno,4,66.14
+Indianapolis,1,29.42
+Charlotte,2,44.70
+Tucson,5,94.76
+Houston,5,
+New York,3,35.94
+Omaha,2,
+Houston,4,96.68
+Arlington,1,22.59
+Boston,3,99.58
+Seattle,3,19.02
+San Diego,3,90.56
+Columbus,3,29.24
+Oakland,1,61.03
+Omaha,4,44.45
+Louisville,2,96.02
+Los Angeles,1,40.65
+Oklahoma City,4,72.78
+Memphis,2,98.52
+Houston,3,41.39
+Los Angeles,5,96.22
+Charlotte,3,95.27
+Tulsa,1,36.65
+Atlanta,5,24.98
+Indianapolis,5,78.62
+Nashville,5,62.98
+Long Beach,4,93.11
+Austin,3,69.97
+El Paso,5,15.91
+Virginia Beach,5,96.59
+Boston,5,48.38
+Austin,3,33.32
+Los Angeles,3,
+Portland,2,47.97
+Milwaukee,4,96.47
+Boston,2,45.35
+Wichita,5,32.66
+New Orleans,4,15.89
+New Orleans,5,81.63
+Miami,5,89.81
+Tucson,1,57.20
+Houston,3,52.20
+Chicago,3,87.01
+Sacramento,5,61.43
+Dallas,5,85.04
+Kansas City,3,82.12
+Tucson,1,39.16
+Kansas City,5,77.31
+Jacksonville,5,91.57
+El Paso,2,
+Detroit,1,54.43
+San Francisco,2,20.43
+Las Vegas,5,12.88
+San Antonio,1,31.66
+San Diego,4,14.29
+Portland,2,96.26
+Oakland,4,28.43
+Oklahoma City,5,57.20
+Baltimore,3,
+Tulsa,4,34.19
+Seattle,2,17.44
+Mesa,1,50.31
+Houston,4,10.58
+Wichita,2,40.33
+Omaha,2,65.15
+Long Beach,1,14.81
+Phoenix,3,80.07
+Memphis,1,
+Oakland,4,
+Tulsa,3,61.96
+Omaha,5,58.64
+San Diego,2,74.85
+Chicago,5,12.57
+Tulsa,1,87.72
+Oklahoma City,3,
+Washington,5,86.40
+Dallas,4,
+Memphis,1,31.84
+Houston,5,31.46
+Jacksonville,3,73.03
+Long Beach,4,30.77
+Tulsa,5,90.77
+Indianapolis,2,76.05
+Jacksonville,5,94.06
+Memphis,4,34.18
+Raleigh,1,43.00
+Chicago,1,27.85
+Kansas City,4,29.62
+Virginia Beach,4,67.79
+Miami,5,44.10
+El Paso,5,75.22
+Detroit,4,67.92
+Miami,4,59.44
+Oakland,5,84.42
+Oklahoma City,2,97.92
+Jacksonville,2,35.10
+El Paso,1,70.06
+Long Beach,5,86.92
+New Orleans,2,72.67
+San Jose,4,59.78
+Fort Worth,5,96.23
+Virginia Beach,4,37.21
+Wichita,1,12.50
+Houston,1,
+Las Vegas,3,
+Atlanta,5,12.60
+Wichita,4,79.02
+Sacramento,4,36.41
+Dallas,5,74.88
+Tucson,2,12.46
+Jacksonville,3,82.24
+Boston,4,65.18
+Mesa,5,88.30
+Phoenix,5,92.32
+Kansas City,2,76.57
+Mesa,5,79.35
+Colorado Springs,4,29.16
+Oklahoma City,1,39.10
+Chicago,1,83.42
+Detroit,2,58.33
+Albuquerque,5,57.20
+New Orleans,3,62.63
+Colorado Springs,2,59.07
+Austin,3,80.01
+Sacramento,5,76.23
+Los Angeles,5,59.25
+Wichita,2,96.26
+Arlington,2,44.69
+Seattle,2,87.42
+Albuquerque,3,64.15
+Dallas,5,34.92
+Detroit,2,15.67
+Seattle,4,37.72
+Tucson,5,62.67
+Fort Worth,2,66.86
+Minneapolis,3,16.46
+Dallas,5,23.54
+Detroit,1,77.11
+San Antonio,1,34.61
+Denver,4,
+Sacramento,2,94.60
+San Jose,4,98.62
+Chicago,1,
+Jacksonville,1,71.74
+Kansas City,3,12.47
+Virginia Beach,4,47.08
+Nashville,4,69.16
+Kansas City,2,24.47
+Denver,3,32.05
+Virginia Beach,4,31.77
+Sacramento,3,99.59
+San Diego,5,25.58
+Albuquerque,5,55.62
+San Jose,5,83.63
+Portland,5,98.24
+Milwaukee,5,28.71
+Phoenix,2,39.26
+Washington,2,14.83
+Dallas,3,66.21
+Los Angeles,3,56.98
+Louisville,3,28.75
+Colorado Springs,3,78.34
+New Orleans,4,17.24
+Chicago,2,80.20
+Austin,2,14.07
+Sacramento,1,80.31
+Charlotte,4,71.59
+New York,4,91.31
+Arlington,2,82.44
+Indianapolis,5,42.46
+Nashville,2,41.69
+Phoenix,3,55.29
+Atlanta,2,73.45
+Albuquerque,5,92.70
+Memphis,3,70.66
+Chicago,1,
+Wichita,4,19.18
+Wichita,1,62.97
+Miami,5,83.74
+Portland,5,69.26
+Memphis,5,94.12
+Memphis,3,11.55
+Los Angeles,2,39.14
+New Orleans,4,73.49
+Kansas City,5,73.28
+Kansas City,1,89.64
+Tulsa,5,63.91
+Philadelphia,3,37.92
+Omaha,2,94.86
+Portland,4,97.18
+Oakland,2,44.85
+Atlanta,4,53.73
+Detroit,1,28.14
+San Diego,5,83.58
+Louisville,1,89.42
+Mesa,1,36.21
+Virginia Beach,5,51.14
+New York,4,17.39
+Oklahoma City,4,80.72
+Jacksonville,2,72.62
+Denver,4,85.21
+Fort Worth,5,76.91
+Las Vegas,5,29.92
+Wichita,2,89.38
+Arlington,5,42.35
+Tucson,2,74.45
+El Paso,1,45.54
+Oklahoma City,2,94.14
+San Antonio,2,25.82
+Fort Worth,3,77.21
+Jacksonville,5,31.35
+Long Beach,1,65.76
+Atlanta,1,25.16
+Fresno,4,73.55
+El Paso,2,82.39
+San Jose,5,
+Indianapolis,3,61.31
+Chicago,5,90.90
+Memphis,5,69.79
+Long Beach,1,11.56
+Albuquerque,5,76.92
+Houston,3,25.39
+Louisville,1,59.76
+Minneapolis,5,61.20
+Chicago,4,81.63
+Oakland,4,24.62
+Chicago,4,15.43
+Virginia Beach,3,53.60
+Tucson,5,38.52
+Jacksonville,4,31.58
+New Orleans,3,14.06
+Columbus,5,88.09
+Fort Worth,2,65.97
+Jacksonville,3,13.94
+Boston,3,84.63
+Fort Worth,4,16.61
+Arlington,5,77.25
+Miami,5,
+Miami,4,38.20
+Long Beach,2,75.69
+Indianapolis,1,43.54
+Columbus,1,19.47
+Memphis,4,55.06
+Boston,1,15.67
+Tucson,4,45.51
+Chicago,3,11.96
+Jacksonville,3,
+Philadelphia,1,60.60
+Albuquerque,3,
+Austin,4,37.51
+Seattle,1,38.68
+Baltimore,3,72.42
+Boston,4,62.17
+Boston,3,21.99
+Albuquerque,3,24.38
+Oklahoma City,4,34.85
+Las Vegas,5,31.99
+Arlington,1,53.01
+Colorado Springs,3,27.73
+Raleigh,1,83.19
+Wichita,4,65.38
+Fort Worth,1,61.10
+San Jose,2,90.96
+San Jose,4,51.21
+Chicago,2,89.47
+Oklahoma City,2,69.75
+Washington,3,60.68
+Fort Worth,3,57.47
+Arlington,3,49.10
+Wichita,5,33.32
+Raleigh,1,36.65
+Dallas,2,45.44
+Long Beach,3,17.91
+Oakland,1,62.64
+Nashville,5,51.29
+Colorado Springs,2,15.00
+Jacksonville,5,43.01
+San Francisco,2,
+San Antonio,4,32.51
+Fresno,1,54.57
+Louisville,3,95.34
+Dallas,4,
+Detroit,4,91.19
+Philadelphia,4,68.45

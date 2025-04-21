@@ -1,0 +1,33 @@
+SAMPLE TEXT FILE
+================
+
+This is a simple text file (.txt) that contains plain text without any formatting.
+
+Text files like this one:
+- Can be opened by any text editor
+- Don't contain any special formatting (bold, italic, etc.)
+- Are typically small in size
+- Use standard character encodings like UTF-8 or ASCII
+
+Example content:
+
+1. This is the first line of plain text.
+2. This is the second line of plain text.
+3. This is the third line of plain text.
+
+You can include simple ASCII art if desired:
+
+    /\
+   /  \
+  /    \
+ /      \
+/________\
+
+Text files are universally compatible across all operating systems and are often used for:
+- Configuration files
+- README files
+- Log files
+- Simple data storage
+- Programming source code
+
+This file can be saved with a .txt extension.
